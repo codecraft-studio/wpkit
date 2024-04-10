@@ -6,7 +6,6 @@
 if ( ! defined( 'ABSPATH' ) ) {
 	exit; // Exit if accessed directly.
 }
-
 ?>
 
 <header id="masthead" class="banner">
